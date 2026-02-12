@@ -161,24 +161,6 @@ bookingpress-reviews-slider/
 └── README.md
 ```
 
-### Hooks and Filters
-
-The plugin provides several hooks for developers:
-
-**Filters:**
-
-- `bpr_slider_reviews_query` - Modify the reviews database query
-- `bpr_slider_review_card_html` - Customize review card HTML
-- `bpr_slider_stars_html` - Change star rating display
-
-Example:
-```php
-add_filter('bpr_slider_reviews_query', function($sql) {
-    // Modify query
-    return $sql;
-});
-```
-
 ## Troubleshooting
 
 ### Slider not showing
@@ -217,8 +199,7 @@ For support, please contact: support@friseur-nabha.de
 
 ## Credits
 
-Developed for Friseur Nabha
-Built with love for the WordPress community
+Developed by Awaxis
 
 ## License
 
