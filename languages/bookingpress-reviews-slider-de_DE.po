@@ -1,0 +1,73 @@
+# BookingPress Reviews Slider - German Translation
+# Copyright (C) 2024 Awaxis
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: BookingPress Reviews Slider 1.2.0\n"
+"Report-Msgid-Bugs-To: https://awaxis.me/support\n"
+"POT-Creation-Date: 2024-12-01 12:00+0000\n"
+"PO-Revision-Date: 2024-12-01 12:00+0000\n"
+"Last-Translator: Awaxis <info@awaxis.me>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Manual\n"
+
+#: bookingpress-reviews-slider.php:208
+#: bookingpress-reviews-slider.php:582
+msgid "No reviews found."
+msgstr "Keine Bewertungen gefunden."
+
+#: bookingpress-reviews-slider.php:325
+msgid "ago"
+msgstr "her"
+
+#: bookingpress-reviews-slider.php:342
+msgid "Reviews Slider Settings"
+msgstr "Bewertungen Slider Einstellungen"
+
+#: bookingpress-reviews-slider.php:343
+msgid "Reviews Slider"
+msgstr "Bewertungen Slider"
+
+#: bookingpress-reviews-slider.php:611
+#, php-format
+msgid "Based on %d reviews"
+msgstr "Basierend auf %d Bewertungen"
+
+#: bookingpress-reviews-slider.php:639
+#, php-format
+msgid "%d%% of customers recommend us"
+msgstr "%d%% der Kunden empfehlen uns"
+
+#: bookingpress-reviews-slider.php:700
+#, php-format
+msgid "Based on %s reviews"
+msgstr "Basierend auf %s Bewertungen"
+
+#: bookingpress-reviews-slider.php:716
+msgid "Customer Reviews"
+msgstr "Kundenbewertungen"
+
+#: bookingpress-reviews-slider.php:724
+msgid "FILTER BY"
+msgstr "FILTERN NACH"
+
+#: bookingpress-reviews-slider.php:780
+msgid "Load More"
+msgstr "Mehr laden"
+
+#: bookingpress-reviews-slider.php:781
+msgid "Loading..."
+msgstr "Laden..."
+
+#: bookingpress-reviews-slider.php:1015
+msgid "Please select at least one rating filter."
+msgstr "Bitte wählen Sie mindestens einen Bewertungsfilter aus."
+
+#: bookingpress-reviews-slider.php:1029
+msgid "No reviews found matching your filters."
+msgstr "Keine Bewertungen gefunden, die Ihren Filtern entsprechen."
